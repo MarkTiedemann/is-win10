@@ -1,0 +1,25 @@
+{
+  "name": "is-win10",
+  "version": "1.0.0",
+  "description": "Detect if your code is running on Windows 10.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "is",
+    "win",
+    "windows",
+    "win32",
+    "version",
+    "10"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/is-win10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/is-win10/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/is-win10"
+}
